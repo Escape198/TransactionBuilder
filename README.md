@@ -47,3 +47,6 @@ Paste your private key (only stored in memory).
 Click Sign Transaction.
 
 Copy the raw signed transaction hex.
+
+![image](https://github.com/user-attachments/assets/7661d404-4b81-40c8-bd50-847ee6d7ba71)
+
