@@ -41,6 +41,9 @@ Open http://localhost:5173 in your browser.
 ## 🛠 Usage
 
 Fill in transaction fields: nonce, to, value, gas, data.
+
 Paste your private key (only stored in memory).
+
 Click Sign Transaction.
+
 Copy the raw signed transaction hex.
